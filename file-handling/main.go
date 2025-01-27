@@ -6,9 +6,10 @@ import (
 	"os"
 )
 
+
+
 func main() {
 	fmt.Println("File handling demo")
-
 	// Create file
 	file, err := os.Create("example.txt")
 	if err != nil {
@@ -60,5 +61,7 @@ func main() {
 
 	// close connection
 	file.Close()
+
 	
+
 }
