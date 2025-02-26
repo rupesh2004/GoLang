@@ -1,3 +1,13 @@
 go get github.com/gin-gonic/gin
 
 go get go.mongodb.org/mongo-driver/mongo
+
+go get -u github.com/go-sql-driver/mysql
+
+
+
+
+mongodb+srv://bhosalerupesh67:UdpdM6ehgytcszBj@students-data.76rfc.mongodb.net/?retryWrites=true&w=majority&appName=students-data
+
+
+failed to delete exam
